@@ -4,8 +4,8 @@ For chatbot to work:
 
 1. Install a virtual environment by runnning the following
 ```
-virtualenv chatbotenv
-source chatbotenv/bin/activate
+conda create myenv
+conda activate myenv
 ```
 
 2. Install all the required libraries 
